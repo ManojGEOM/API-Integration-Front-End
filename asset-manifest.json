@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Interview-Exercise-Manoj-Lokare/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/Interview-Exercise-Manoj-Lokare/static/js/main.2408c700.chunk.js",
+    "main.js.map": "/Interview-Exercise-Manoj-Lokare/static/js/main.2408c700.chunk.js.map",
+    "runtime-main.js": "/Interview-Exercise-Manoj-Lokare/static/js/runtime-main.d7782557.js",
+    "runtime-main.js.map": "/Interview-Exercise-Manoj-Lokare/static/js/runtime-main.d7782557.js.map",
+    "static/js/2.c6d83b0e.chunk.js": "/Interview-Exercise-Manoj-Lokare/static/js/2.c6d83b0e.chunk.js",
+    "static/js/2.c6d83b0e.chunk.js.map": "/Interview-Exercise-Manoj-Lokare/static/js/2.c6d83b0e.chunk.js.map",
+    "static/js/3.57c91d8e.chunk.js": "/Interview-Exercise-Manoj-Lokare/static/js/3.57c91d8e.chunk.js",
+    "static/js/3.57c91d8e.chunk.js.map": "/Interview-Exercise-Manoj-Lokare/static/js/3.57c91d8e.chunk.js.map",
+    "index.html": "/Interview-Exercise-Manoj-Lokare/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/Interview-Exercise-Manoj-Lokare/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.c6d83b0e.chunk.js.LICENSE.txt": "/Interview-Exercise-Manoj-Lokare/static/js/2.c6d83b0e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d7782557.js",
+    "static/js/2.c6d83b0e.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.2408c700.chunk.js"
+  ]
+}
